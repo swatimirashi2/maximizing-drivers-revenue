@@ -60,7 +60,7 @@ Comparison of Card vs Cash payments in NYC Taxi:
 ---
 
 ## 🧠 Learnings
-- Applied **EDA, hypothesis testing, and regression modeling** on real-world data  
+- Applied **EDA and hypothesis testing** on real-world data  
 - Learned to convert **raw data into actionable business insights**  
 - Improved **data visualization, interpretation, and communication** skills  
 - Gained hands-on experience in **end-to-end data analysis workflow**
