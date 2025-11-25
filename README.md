@@ -1,3 +1,6 @@
+# 🚖 MAXIMIZING REVENUE FOR DRIVERS Through Payment Type  
+*(Group Project – Team Size: 2)*
+
 ## 🧭 Project Overview
 This project explores how **payment type (Card vs Cash)** impacts taxi fares and trip characteristics in New York City.  
 It provides **data-driven insights** to help drivers and companies **maximize revenue** by understanding passenger behavior and fare patterns.
@@ -28,9 +31,8 @@ To determine whether **payment method** affects the **total fare amount** and **
 1. **Data Cleaning** – Removed missing, duplicate, and invalid records  
 2. **Exploratory Data Analysis (EDA)** – Analyzed trip and fare distributions by payment type  
 3. **Statistical Testing (t-Test)** – Checked whether fare differences between payment types are statistically significant  
-4. **Regression Analysis** – Modeled fare as a function of trip distance and payment type  
-5. **Visualization** – Created comparative charts for insights  
-6. **Reporting** – Summarized results with visuals and business recommendations  
+4. **Visualization** – Created comparative charts for insights  
+5. **Reporting** – Summarized results with visuals and business recommendations  
 
 ---
 
@@ -75,20 +77,19 @@ Comparison of Card vs Cash payments in NYC Taxi:
 
 ---
 
-## 📂 Supporting Files
-> For reference and verification
+## 👀 View My Work
 
 - 📘 [Jupyter Notebook – Analysis Code](https://github.com/swatimirashi/taxipaymentinsights/blob/7e8930fdfeb7f07d2c09502c8ccde456ff522ec2/Project_content/Hypothesis%20Testing%20(Maximizing%20Revenue).ipynb)  
 - 📊 [Dataset (CSV File)](data/nyc_taxi_data.csv)  
 - 🧾 [Presentation – Summary Report (PPT)](https://www.canva.com/design/DAG1RxephlA/nEUTg3h2_jFAVg_F7huofQ/view?utm_content=DAG1RxephlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ed07ff540)  
-- 📄 [Final PDF Report](report.pdf)
+- 📄 [Final PDF Report](report.pdf)  
 
 ---
 
 ## 👩‍💻 Author
 **Swati Mirashi**  
 📧 [swatimirashi298@gmail.com](mailto:swatimirashi298@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/swatimirashi) | [GitHub](https://github.com/swatimirashi)
+🔗 [LinkedIn](https://www.linkedin.com/in/swatimirashi) 
 
 ---
 
