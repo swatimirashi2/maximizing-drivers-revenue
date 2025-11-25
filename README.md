@@ -80,9 +80,8 @@ Comparison of Card vs Cash payments in NYC Taxi:
 ## 👀 View My Work
 
 - 📘 [Jupyter Notebook – Analysis Code](https://github.com/swatimirashi/taxipaymentinsights/blob/7e8930fdfeb7f07d2c09502c8ccde456ff522ec2/Project_content/Hypothesis%20Testing%20(Maximizing%20Revenue).ipynb)  
-- 📊 [Dataset (CSV File)](data/nyc_taxi_data.csv)  
-- 🧾 [Presentation – Summary Report (PPT)](https://www.canva.com/design/DAG1RxephlA/nEUTg3h2_jFAVg_F7huofQ/view?utm_content=DAG1RxephlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ed07ff540)  
-- 📄 [Final PDF Report](report.pdf)  
+- 📊 [Dataset (CSV File)](data/nyc_taxi_data.csv)   
+- 📄 [Final PDF Report](https://drive.google.com/file/d/1Mur115M-9biqjQrS1TGtWjudhD-jw_5u/view?usp=drivesdk)  
 
 ---
 
